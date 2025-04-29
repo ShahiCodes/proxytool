@@ -14,7 +14,7 @@ program
   .description('CLI tool to manage proxy settings easily.')
   .version('0.1.0');
 
-// Set Command
+
 program
   .command('set')
   .description('Set proxy settings')
