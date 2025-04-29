@@ -1,7 +1,3 @@
-Here’s the updated README with your requested addition:
-
----
-
 # ProxyTool
 
 **ProxyTool** is a simple command-line utility for setting and managing proxy settings for npm, Git, and system environment variables on Windows using PowerShell. This tool helps you configure and unset proxies with ease, allowing you to manage your network settings directly from your terminal.
