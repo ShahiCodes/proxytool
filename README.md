@@ -1,6 +1,6 @@
 # ProxyTool
 
-**ProxyTool** is a simple command-line utility for setting and managing proxy settings for npm, Git, and system environment variables on Windows using PowerShell. This tool helps you configure and unset proxies with ease, allowing you to manage your network settings directly from your terminal.
+**ProxyTool** is a simple command-line utility for setting and managing proxy settings for npm, Git, and system environment variables on Windows and VSCode using PowerShell. This tool helps you configure and unset proxies with ease, allowing you to manage your network settings directly from your terminal.
 
 ---
 
@@ -44,7 +44,7 @@ If you're a student of **IIIT Allahabad**, the default proxy (http://172.31.2.4:
 proxytool set
 ```
 
-This command will automatically set the proxy for npm, Git, and environment variables without needing to specify the proxy URL.
+This command will automatically set the proxy for npm, Git, and environment variables without needing to specify the proxy URL. But you will still need to login with your credentials in the browser once.
 
 ### 2. Unset Proxy
 
