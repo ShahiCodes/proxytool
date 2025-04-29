@@ -1,14 +1,14 @@
 {
-  "name": "proxytool",
+"name": "@harshitnpm033/proxytool",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "Easily set/unset proxy settings for npm, git, and environment on Windows and VSCode.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["proxy", "npm", "git", "cli", "iiita"],
+  "author": "harshitnpm033",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.4.1",
@@ -17,5 +17,9 @@
   },
   "bin": {
     "proxytool": "./bin/proxytool.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShahiCodes/proxytool.git"
   }
 }
