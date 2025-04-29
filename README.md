@@ -21,7 +21,7 @@ Here’s the updated README with your requested addition:
 You can install **ProxyTool** globally from npm to use it on your system.
 
 ```bash
-npm install -g proxytool
+npm install -g @harshitnpm033/proxytool
 ```
 
 ---
